@@ -1,0 +1,106 @@
+{
+  "updatedAt": "2024-05-01T08:30:00.000Z",
+  "totalSources": 3,
+  "models": [
+    {
+      "model": "iPhone 15",
+      "brand": "Apple",
+      "release": "2023/09",
+      "chipset": "A16 Bionic",
+      "display": "6.1 吋 OLED",
+      "battery": "約 3349 mAh",
+      "ram": "6 GB",
+      "storage": "128/256/512 GB",
+      "camera": "48MP + 12MP",
+      "os": "iOS 17",
+      "sources": [
+        {
+          "source": "GSMArena",
+          "title": "Apple iPhone 15 review highlights",
+          "link": "https://www.gsmarena.com/apple_iphone_15-review-2632.php",
+          "publishedAt": "Tue, 10 Oct 2023 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "model": "Pixel 8",
+      "brand": "Google",
+      "release": "2023/10",
+      "chipset": "Google Tensor G3",
+      "display": "6.2 吋 OLED 120Hz",
+      "battery": "4575 mAh",
+      "ram": "8 GB",
+      "storage": "128/256 GB",
+      "camera": "50MP + 12MP",
+      "os": "Android 14",
+      "sources": [
+        {
+          "source": "Android Authority",
+          "title": "Google Pixel 8 review: AI-powered flagship",
+          "link": "https://www.androidauthority.com/google-pixel-8-review-3378865/",
+          "publishedAt": "Wed, 11 Oct 2023 09:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "model": "Galaxy S24",
+      "brand": "Samsung",
+      "release": "2024/01",
+      "chipset": "Snapdragon 8 Gen 3 / Exynos 2400",
+      "display": "6.2 吋 Dynamic AMOLED 2X",
+      "battery": "4000 mAh",
+      "ram": "8 GB",
+      "storage": "128/256/512 GB",
+      "camera": "50MP + 12MP + 10MP",
+      "os": "Android 14",
+      "sources": [
+        {
+          "source": "The Verge (Mobile)",
+          "title": "Samsung Galaxy S24 hands-on: the new baseline",
+          "link": "https://www.theverge.com/2024/1/17/24041085/samsung-galaxy-s24-hands-on",
+          "publishedAt": "Wed, 17 Jan 2024 14:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "model": "OnePlus 12",
+      "brand": "OnePlus",
+      "release": "2024/01",
+      "chipset": "Snapdragon 8 Gen 3",
+      "display": "6.82 吋 LTPO OLED 120Hz",
+      "battery": "5400 mAh",
+      "ram": "12/16/24 GB",
+      "storage": "256/512/1024 GB",
+      "camera": "50MP + 48MP + 64MP",
+      "os": "Android 14",
+      "sources": [
+        {
+          "source": "GSMArena",
+          "title": "OnePlus 12 review: the return of the flagship killer",
+          "link": "https://www.gsmarena.com/oneplus_12-review-2654.php",
+          "publishedAt": "Fri, 02 Feb 2024 10:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "model": "Xiaomi 14",
+      "brand": "Xiaomi",
+      "release": "2023/10",
+      "chipset": "Snapdragon 8 Gen 3",
+      "display": "6.36 吋 AMOLED 120Hz",
+      "battery": "4610 mAh",
+      "ram": "12/16 GB",
+      "storage": "256/512/1024 GB",
+      "camera": "50MP + 50MP + 50MP",
+      "os": "Android 14",
+      "sources": [
+        {
+          "source": "GSMArena",
+          "title": "Xiaomi 14 review: compact flagship",
+          "link": "https://www.gsmarena.com/xiaomi_14-review-2669.php",
+          "publishedAt": "Mon, 26 Feb 2024 09:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GSMArena",
+    "url": "https://www.gsmarena.com/rss-news-reviews.php3",
+    "reliability": "high"
+  },
+  {
+    "name": "Android Authority",
+    "url": "https://www.androidauthority.com/feed/",
+    "reliability": "high"
+  },
+  {
+    "name": "The Verge (Mobile)",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "reliability": "high"
+  }
+]
