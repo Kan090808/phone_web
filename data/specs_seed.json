@@ -1,0 +1,67 @@
+[
+  {
+    "model": "iPhone 15",
+    "brand": "Apple",
+    "release": "2023/09",
+    "chipset": "A16 Bionic",
+    "display": "6.1 吋 OLED",
+    "battery": "約 3349 mAh",
+    "ram": "6 GB",
+    "storage": "128/256/512 GB",
+    "camera": "48MP + 12MP",
+    "os": "iOS 17",
+    "aliases": ["iphone 15", "apple iphone 15"]
+  },
+  {
+    "model": "Pixel 8",
+    "brand": "Google",
+    "release": "2023/10",
+    "chipset": "Google Tensor G3",
+    "display": "6.2 吋 OLED 120Hz",
+    "battery": "4575 mAh",
+    "ram": "8 GB",
+    "storage": "128/256 GB",
+    "camera": "50MP + 12MP",
+    "os": "Android 14",
+    "aliases": ["pixel 8", "google pixel 8"]
+  },
+  {
+    "model": "Galaxy S24",
+    "brand": "Samsung",
+    "release": "2024/01",
+    "chipset": "Snapdragon 8 Gen 3 / Exynos 2400",
+    "display": "6.2 吋 Dynamic AMOLED 2X",
+    "battery": "4000 mAh",
+    "ram": "8 GB",
+    "storage": "128/256/512 GB",
+    "camera": "50MP + 12MP + 10MP",
+    "os": "Android 14",
+    "aliases": ["galaxy s24", "samsung galaxy s24"]
+  },
+  {
+    "model": "OnePlus 12",
+    "brand": "OnePlus",
+    "release": "2024/01",
+    "chipset": "Snapdragon 8 Gen 3",
+    "display": "6.82 吋 LTPO OLED 120Hz",
+    "battery": "5400 mAh",
+    "ram": "12/16/24 GB",
+    "storage": "256/512/1024 GB",
+    "camera": "50MP + 48MP + 64MP",
+    "os": "Android 14",
+    "aliases": ["oneplus 12"]
+  },
+  {
+    "model": "Xiaomi 14",
+    "brand": "Xiaomi",
+    "release": "2023/10",
+    "chipset": "Snapdragon 8 Gen 3",
+    "display": "6.36 吋 AMOLED 120Hz",
+    "battery": "4610 mAh",
+    "ram": "12/16 GB",
+    "storage": "256/512/1024 GB",
+    "camera": "50MP + 50MP + 50MP",
+    "os": "Android 14",
+    "aliases": ["xiaomi 14"]
+  }
+]

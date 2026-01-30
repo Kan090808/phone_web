@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>手機規格比較</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="hero__eyebrow">每日更新手機規格</p>
+        <h1>手機規格比較</h1>
+        <p class="hero__subtitle">
+          透過可靠新聞來源追蹤最新機型，讓你快速對比重點規格。
+        </p>
+        <div class="search">
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="搜尋機型或品牌..."
+            autocomplete="off"
+          />
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="panel">
+        <div class="panel__header">
+          <h2>顯示欄位設定</h2>
+          <span id="updatedAt" class="updated"></span>
+        </div>
+        <div id="specToggles" class="toggles"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel__header">
+          <h2>機型列表</h2>
+          <span id="resultCount" class="count"></span>
+        </div>
+        <div class="table-wrapper">
+          <table id="specTable">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>資料來源：RSS新聞與人工校正資料庫，每日更新。</p>
+    </footer>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
